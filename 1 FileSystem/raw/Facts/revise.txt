@@ -1,0 +1,47 @@
+
+primitive ==> 
+    variables let, number, string, boolean, undefined, null
+
+for, while, if else if, break, return
+
+non-primitive ==>
+    functions
+        parameters
+        return 
+            value or undefined
+    arrays (collection of anything)
+        length
+        last
+            push
+            pop
+        first
+            shift
+            unshift
+        split
+            split based on some delimeter
+        slice
+            sliced copy of array (start, end)
+        splice
+            removes elements from array and returns removed array (start,deleteCount)
+    object (key: value)
+        values can be valid JS types
+        get 
+            sqaure brackets
+            dot notataion
+        set
+            object[key] = value
+        delete
+            delete keyword
+        for each loop
+    
+
+
+
+
+main.JS == (require)
+    view    
+        module.exports
+    hellp
+        module.exports
+    organize
+        module.exports
