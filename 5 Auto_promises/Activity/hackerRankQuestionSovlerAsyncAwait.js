@@ -13,7 +13,7 @@ console.log("Before");
             defaultViewport: null,
             args: ["--start-maximized",]
         });
-        let newTab = await browserInstance.newPage();
+        let newTabl = await browserInstance.newPage();
         await newTab.goto("https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login");
         await newTab.type("#input-1", email, { delay: 0 });
         await newTab.type("#input-2", password, { delay: 0 });
