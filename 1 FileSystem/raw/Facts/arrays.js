@@ -71,6 +71,7 @@ console.log(list);
 list.shift();
 console.log(list);
 
+
 let sliceList = list.slice(2,4);
 console.log("sliced " + sliceList);
 console.log("original " + list);

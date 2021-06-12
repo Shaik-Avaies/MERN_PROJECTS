@@ -15,8 +15,6 @@ console.log("Before");
 
 
 
-
-
 console.log("Before");
 //we don't have to pass cb in promises
 let token = fs.promises.readFile("f1.txt");

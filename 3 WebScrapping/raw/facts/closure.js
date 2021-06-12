@@ -28,7 +28,6 @@ let newArr = map(arr,square);
 console.log(newArr);
 
 
-
 //hof 
 function  outer(){ 
     console.log("I am Outer");

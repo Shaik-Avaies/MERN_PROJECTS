@@ -38,7 +38,6 @@ function extractHtml(html){
         // console.log( selectorTool(allMatchNames[i]).text() + " VS " + selectorTool(allMatchNames[i+1]).text() );
         // console.log(getAllLinks[j++]);
     }
-
     // .col-md-8.col-16 .match-info-link-FIXTURES
     // .match-info.match-info-FIXTURES .name-detail p
 }

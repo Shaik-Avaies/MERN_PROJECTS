@@ -35,8 +35,8 @@ let obj = {
 console.log(obj);
 
 
-//we can update exsisting property
 
+//we can update exsisting property
 obj.age = 25;
 console.log(obj["age"]);
 //we can add new property
